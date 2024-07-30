@@ -2,10 +2,7 @@
   "id": "oakk7cnnzpi5wlo",
   "name": "Hello World",
   "description": "This is a test addon, is intended only for demonstration purpose",
-  "icon": "something.png",
+  "icon": "https://mensa-italia.github.io/mensa_app_addon/app_icon.png",
   "version": "1.0.0",
-  "permissions": [
-    "camera",
-    "geolocation"
-  ]
+  "permissions": []
 }
