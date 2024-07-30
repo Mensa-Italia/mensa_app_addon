@@ -1,0 +1,11 @@
+{
+  "id": "oakk7cnnzpi5wlo",
+  "name": "Hello World",
+  "description": "This is a test addon, is intended only for demonstration purpose",
+  "icon": "something.png",
+  "version": "1.0.0",
+  "permissions": [
+    "camera",
+    "geolocation"
+  ]
+}
