@@ -15,11 +15,13 @@ const router = createBrowserRouter([
         path: "/",
         element: <App />,
     },
-]);
+], {
+        basename: "/mensa_app_addon",
+    });
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-      <RouterProvider router={router} basename='/mensa_app_addon/' />
+      <RouterProvider router={router}  />
   </React.StrictMode>,
 )
