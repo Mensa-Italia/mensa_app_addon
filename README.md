@@ -47,7 +47,7 @@ The `mensadata.json` file contains the metadata of the addon. It must be reachab
 ### Live Example:
 [https://mensa-italia.github.io/mensa_app_addon/mensadata.json](https://mensa-italia.github.io/mensa_app_addon/mensadata.json)
 
-## Mensa Server
+## Mensa Server (THIS FEATURE IS NOT YET AVAILABLE)
 If you choose to use the Mensa Server to host your addon, please follow these additional rules:
 1. **Database:** Use sqlite if your addon requires a database.
 2. **Server Usage:** The server is only for hosting your addon.
